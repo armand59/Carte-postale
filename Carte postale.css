@@ -1,0 +1,155 @@
+#carte
+{
+    width :900px;
+    height:550px;
+    background-color: white;
+    box-shadow: 2px 2px 18px #555;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 20%;
+
+}
+
+#bloctxt
+{
+    width :400px;
+    height: 500px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#txt
+{
+    text-align: left;
+    margin-top: 160px;
+    margin-left: 30px;
+    font-size: 22px;
+}
+
+#rightblock
+{
+    width: 458px;
+    height: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 36px;
+}
+
+#verticalline
+{
+    height: 470px;
+    width: 2px;
+    background-color:  black;
+    margin-top: 38px;
+    margin-left: 33px;
+    display: inline-block;
+}
+
+#timbre
+{
+    height: 150px;
+    width: 120px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 304px;
+    margin-top: -487px;
+
+
+}
+
+#horizontalline
+{
+    height: 3px;
+    width: 75%;
+    background-color: black;
+    margin-top: 130px;
+    margin-left: 71px;
+}
+
+#horizontalline2
+
+{
+    height: 2px;
+    width: 75%;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 71px;
+}
+
+#horizontalline3
+{
+    height: 2px;
+    width: 75%;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 71px;
+}
+
+#horizontalline4
+{
+    height: 2px;
+    width: 41%;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 226px;
+}
+
+#postalcode
+
+{
+    height: 30px;
+    width: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 190px;
+    margin-top: -34px;
+}
+
+#postalcode2
+
+{
+    height: 30px;
+    width: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 160px;
+    margin-top: -34px;
+}
+
+#postalcode3
+{
+    height: 30px;
+    width: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 130px;
+    margin-top: -34px;
+}
+
+#postalcode4
+
+{
+    height: 30px;
+    width: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 100px;
+    margin-top: -34px;
+}
+
+#postalcode5
+
+{
+    height: 30px;
+    width: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 70px;
+    margin-top: -34px;
+}
